@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## Hi there 👋
+### I'm a Student, Full-stack Web Developer and Competitive Programmer!
 <!--
 **bansalpuneet15/bansalpuneet15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=bansalpuneet15&&show_icons=true&theme=chartreuse-dark&count_private=true" />
+
+### Connect with me:
+<a href="https://www.linkedin.com/in/puneet-bansal15/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://github.com/bansalpuneet15"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+
+### Languages and Tools:
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> &nbsp; <img src="https://img.icons8.com/plasticine/48/000000/react.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/html-5.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/css3.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
